@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_300">#e0aaff</color>
+    <color name="purple_350">#c77dff</color>
+    <color name="purple_400">#9d4edd</color>
+    <color name="purple_450">#7b2cbf</color>
+    <color name="purple_500">#5a189a</color>
+    <color name="purple_700">#3c096c</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_250">#64dfdf</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_old">#003459</color>
+    <color name="blue_ocean">#007ea7</color>
+    <color name="blue_sky">#00a8e8</color>
+    <!--     text colors -->
+    <color name="text_color_purple">#10002b</color>
+    <color name="text_color_blue_bold">#00171f</color>
+    <color name="text_color_username">#495057</color>
+    <color name="text_color_location_company">#0077b6</color>
+    <color name="text_color_number">#0077b6</color>
+    <!--   button colors   -->
+    <color name="grey_button">#ced4da</color>
+    <!--   card item colors   -->
+    <color name="grey_card_item">#e9ecef</color>
+</resources>

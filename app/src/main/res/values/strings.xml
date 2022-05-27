@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="title_activity_detail_user">DetailUserActivity</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="iv_desc_avatar">AVATAR</string>
+    <string name="card_item_name">NAME</string>
+    <string name="btn_submit">Submit</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan Nama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="repository">Repository</string>
+    <string name="number">0</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="Location">location</string>
+    <string name="Company">company</string>
+</resources>
